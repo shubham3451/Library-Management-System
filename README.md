@@ -27,7 +27,7 @@ How to Run the Project
 Follow these steps to set up and run the project on your local machine:
 1. Clone the repository
 
-git clone https://github.com/yourusername/library-management-system.git
+git clone https://github.com/shubham3451/Library-Management-System.git
 cd library-management-system
 
 2. Set up a virtual environment (optional but recommended)
